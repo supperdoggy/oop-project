@@ -1,21 +1,24 @@
 ﻿<Properties StartupConfiguration="{8A3188AE-07A4-46D1-AE53-DEADCE4DD252}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="cs-client/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cs-client/UserClass.cs">
     <Files>
-      <File FileName="cs-client/Program.cs" Line="13" Column="1" />
+      <File FileName="cs-client/Program.cs" Line="26" Column="18" />
+      <File FileName="cs-client/EmptyClass.cs" Line="23" Column="47" />
+      <File FileName="cs-client/UserClass.cs" Line="4" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="cs-client" expanded="True">
             <Node name="cs-client" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="References" expanded="True" />
+              <Node name="UserClass.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.cs-client FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.cs-client PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

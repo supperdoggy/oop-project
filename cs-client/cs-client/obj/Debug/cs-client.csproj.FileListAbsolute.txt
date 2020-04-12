@@ -1,0 +1,9 @@
+/Users/maks/Projects/oop-project/cs-client/cs-client/bin/Debug/cs-client.exe
+/Users/maks/Projects/oop-project/cs-client/cs-client/bin/Debug/cs-client.pdb
+/Users/maks/Projects/oop-project/cs-client/cs-client/obj/Debug/cs-client.csprojAssemblyReference.cache
+/Users/maks/Projects/oop-project/cs-client/cs-client/obj/Debug/cs-client.csproj.CoreCompileInputs.cache
+/Users/maks/Projects/oop-project/cs-client/cs-client/obj/Debug/cs-client.exe
+/Users/maks/Projects/oop-project/cs-client/cs-client/obj/Debug/cs-client.pdb
+/Users/maks/Projects/oop-project/cs-client/cs-client/bin/Debug/Newtonsoft.Json.dll
+/Users/maks/Projects/oop-project/cs-client/cs-client/bin/Debug/Newtonsoft.Json.xml
+/Users/maks/Projects/oop-project/cs-client/cs-client/obj/Debug/cs-client.csproj.CopyComplete
